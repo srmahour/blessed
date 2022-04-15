@@ -1,0 +1,9 @@
+{
+    "change-pass": "Change Password",
+    "change-regions": "Change Regions",
+    "old-pass": "Old Password",
+    "new-pass": "New Password",
+    "confirm-pass": "Confirm New Password",
+    "region-notice": "You will need coordinator approval to change regions.",
+    "region-warning": "You have swapped regions over the allowed amount. You are no longer allowed to swap."
+}

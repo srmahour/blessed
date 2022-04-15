@@ -1,0 +1,9 @@
+{
+    "change-pass": "Muuta salasana",
+    "change-regions": "Vaihda alueita",
+    "old-pass": "Vanha salasana",
+    "new-pass": "Uusi salasana",
+    "confirm-pass": "Vahvista uusi salasana",
+    "region-notice": "Alueen vaihtamiseen tarvitaan koordinaattorin hyväksyntä.",
+    "region-warning": "Olet vaihtanut alueita sallitun määrän yli. Et voi enää vaihtaa."
+}

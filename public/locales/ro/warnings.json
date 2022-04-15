@@ -1,0 +1,9 @@
+{
+    "username-taken": "User deja alocat.",
+    "user-pass-not-found": "User sau Parolă Incorectă",
+    "password-incorrect": "Parolă Incorectă",
+    "reset-expire": "Codul de resetare nu a fost găsit sau a expirat.",
+    "email-in-use": "E-mail deja folosit.",
+    "email-not-found": "E-mailul nu a fost găsit",
+    "username-url-safe": "User-ul nu trebuie să conțină următoarele caractere [!@#$%^&*(),.?\":{}|<>]"
+}

@@ -1,0 +1,9 @@
+{
+    "change-pass": "Alterar Senha",
+    "change-regions": "Mudar Regiões",
+    "old-pass": "Senha antiga",
+    "new-pass": "Nova Senha",
+    "confirm-pass": "Confirmar nova senha",
+    "region-warning": "Você trocou regiões sobre o montante permitido. Você não está mais autorizado a trocar.",
+    "region-notice": "Você vai precisar da aprovação do coordenador para mudar de região."
+}

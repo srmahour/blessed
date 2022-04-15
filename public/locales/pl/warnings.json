@@ -1,0 +1,9 @@
+{
+    "username-url-safe": "Nazwa użytkownika nie może zawierać żadnego z tych znaków [!@#$%^&*(),.?\":{}|<>]",
+    "username-taken": "Nazwa użytkownika jest już zajęta.",
+    "user-pass-not-found": "Nieprawidłowa nazwa użytkownika lub hasło",
+    "password-incorrect": "Hasło było nieprawidłowe",
+    "email-in-use": "Poczta elektroniczna jest już w użyciu.",
+    "email-not-found": "E-mail nie został znaleziony",
+    "reset-expire": "Kod resetowania nie został znaleziony lub wygasł."
+}

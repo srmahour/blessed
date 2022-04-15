@@ -1,0 +1,9 @@
+{
+    "change-pass": "Ändere Passwort",
+    "change-regions": "Ändere Region",
+    "old-pass": "Altes Passwort",
+    "new-pass": "Neues Passwort",
+    "confirm-pass": "Bestätige neues Passwort",
+    "region-notice": "Du brauchst die Zustimmung des Koordinators, um die Region zu wechseln.",
+    "region-warning": "Du hast über die zulässige Anzahl von Regionen getauscht. Du darfst nicht mehr tauschen."
+}

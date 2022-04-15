@@ -1,0 +1,9 @@
+{
+    "change-pass": "Schimbă Parola",
+    "change-regions": "Schimbă Regiunea",
+    "old-pass": "Parola Veche",
+    "new-pass": "Parola Nouă",
+    "confirm-pass": "Confirmă Parola Nouă",
+    "region-notice": "Veți avea nevoie de aprobarea coordonatorului pentru a schimba regiunile.",
+    "region-warning": "Ați schimbat regiunea de mai multe ori decât este permis. Nu mai aveți voie să faceți schimburi."
+}

@@ -1,0 +1,9 @@
+{
+    "confirm-pass": "Bekræft nyt kodeord",
+    "region-warning": "Du har byttet regioner ud over det tilladte antal. Du har ikke længere lov til at bytte.",
+    "change-pass": "Ændre adgangskode",
+    "change-regions": "Ændre regioner",
+    "old-pass": "Gammel adgangskode",
+    "new-pass": "Nyt kodeord",
+    "region-notice": "Du skal have koordinatorens godkendelse for at skifte region."
+}

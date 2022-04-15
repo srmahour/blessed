@@ -1,0 +1,9 @@
+{
+    "reset-expire": "Nulstillingskoden blev ikke fundet eller er udløbet.",
+    "username-url-safe": "Brugernavnet må ikke indeholde nogen af disse tegn [!@#$$%^&*(),.?\":{}|<>]",
+    "username-taken": "Brugernavnet er allerede optaget.",
+    "user-pass-not-found": "Brugernavn eller adgangskode var forkert",
+    "password-incorrect": "Adgangskoden var forkert",
+    "email-in-use": "E-mail er allerede i brug.",
+    "email-not-found": "E-mailen blev ikke fundet"
+}

@@ -1,0 +1,9 @@
+{
+    "confirm-pass": "Patvirtinti naują slaptažodį",
+    "change-pass": "Keisti slaptažodį",
+    "change-regions": "Keisti regionai",
+    "old-pass": "Senasis slaptažodis",
+    "new-pass": "Naujas slaptažodis",
+    "region-notice": "Norint pakeisti regioną, reikės koordinatoriaus patvirtinimo.",
+    "region-warning": "Regionus pakeitėte daugiau nei leistina. Jums nebeleidžiama keistis regionais."
+}

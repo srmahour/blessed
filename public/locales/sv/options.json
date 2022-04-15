@@ -1,0 +1,9 @@
+{
+    "change-pass": "Ändra lösenord",
+    "change-regions": "Ändra regioner",
+    "old-pass": "Gammalt lösenord",
+    "new-pass": "Nytt lösenord",
+    "confirm-pass": "Bekräfta nya lösenordet",
+    "region-notice": "Du behöver koordinatorns godkännande för att byta region.",
+    "region-warning": "Du har bytt regioner över det tillåtna antalet. Du får inte längre byta regioner."
+}

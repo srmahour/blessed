@@ -1,0 +1,9 @@
+{
+    "user-pass-not-found": "Gebruikersnaam of wagwoord was verkeerd",
+    "password-incorrect": "Wagwoord was verkeerd",
+    "email-in-use": "E-pos is reeds in gebruik.",
+    "email-not-found": "Die e-pos is nie gevind nie",
+    "reset-expire": "Die terugstelkode is nie gevind of het verval.",
+    "username-taken": "Gebruikersnaam is reeds geneem.",
+    "username-url-safe": "Die gebruikersnaam mag nie enige van hierdie karakters te bevat nie [!@#$%^&*(),.?\":{}| ]"
+}

@@ -1,0 +1,9 @@
+{
+    "change-pass": "Změna hesla",
+    "change-regions": "Změnit regiony",
+    "old-pass": "Staré heslo",
+    "new-pass": "Nové heslo",
+    "region-notice": "Ke změně regionu je třeba souhlasu koordinátora.",
+    "confirm-pass": "Potvrzení nového hesla",
+    "region-warning": "Vyměnili jste více regionů, než je povoleno. Výměna již není povolena."
+}

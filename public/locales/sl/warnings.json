@@ -1,0 +1,9 @@
+{
+    "reset-expire": "Ponastavitvena koda ni bila najdena ali je potekla.",
+    "username-url-safe": "Uporabniško ime ne sme vsebovati nobenega od teh znakov [!@#$%^&*(),.?\":{}|<>]",
+    "username-taken": "Uporabniško ime je že zasedeno.",
+    "user-pass-not-found": "Uporabniško ime ali geslo je bilo napačno",
+    "password-incorrect": "Geslo je bilo napačno",
+    "email-in-use": "E-pošta je že v uporabi.",
+    "email-not-found": "E-pošta ni bila najdena"
+}

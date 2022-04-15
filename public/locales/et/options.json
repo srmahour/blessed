@@ -1,0 +1,9 @@
+{
+    "change-pass": "Muuda salasõna",
+    "change-regions": "Muuda piirkondi",
+    "old-pass": "Vana parool",
+    "new-pass": "Uus salasõna",
+    "confirm-pass": "Uue salasõna kinnitamine",
+    "region-notice": "Piirkonna muutmiseks on vaja koordinaatori heakskiitu.",
+    "region-warning": "Te olete vahetanud piirkondi üle lubatud koguse. Teil ei ole enam lubatud vahetada."
+}

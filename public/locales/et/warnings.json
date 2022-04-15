@@ -1,0 +1,9 @@
+{
+    "username-url-safe": "Kasutajanimi ei tohi sisaldada ühtegi neist märkidest [!@#$%^&*(),.?\":{}|<>]",
+    "username-taken": "Kasutajanimi on juba võetud.",
+    "password-incorrect": "Parool oli vale",
+    "user-pass-not-found": "Kasutajanimi või parool oli vale",
+    "email-in-use": "E-post on juba kasutusel.",
+    "email-not-found": "E-posti ei leitud",
+    "reset-expire": "Lähtestuskoodi ei leitud või selle kehtivusaeg on lõppenud."
+}

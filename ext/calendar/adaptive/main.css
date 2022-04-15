@@ -1,0 +1,36 @@
+
+
+  .fc .fc-event,
+  .fc .fc-scrollgrid table tr {
+    -moz-column-break-inside: avoid;
+         break-inside: avoid;
+  }
+
+.fc-media-print {
+  display: block; /* undo flexbox. FF doesn't know how to flow */
+  max-width: 100% /* width will be hardcoded too */
+}
+
+.fc-media-print .fc-timegrid-slots,
+  .fc-media-print .fc-timegrid-axis-chunk,
+  .fc-media-print .fc-timeline-slots,
+  .fc-media-print .fc-non-business,
+  .fc-media-print .fc-bg-event {
+    display: none;
+  }
+
+.fc-media-print .fc-toolbar button,
+  .fc-media-print .fc-h-event,
+  .fc-media-print .fc-v-event {
+    color: #000 !important;
+    background: #fff !important;
+  }
+
+.fc-media-print .fc-event,
+  .fc-media-print .fc-event-main { /* often controls the text-color */
+    color: #000 !important;
+  }
+
+.fc-media-print .fc-timegrid-event {
+    margin: 0.5em 0;
+  }

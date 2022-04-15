@@ -1,0 +1,9 @@
+{
+    "username-taken": "Käyttäjänimi on jo varattu.",
+    "user-pass-not-found": "Käyttäjätunnus tai salasana oli väärä",
+    "password-incorrect": "Salasana oli virheellinen",
+    "email-in-use": "Sähköpostiosoite on jo käytössä.",
+    "email-not-found": "Sähköpostiosoitetta ei löytynyt",
+    "reset-expire": "Nollauskoodia ei löytynyt tai se on vanhentunut.",
+    "username-url-safe": "Käyttäjänimen ei tarvitse sisältää mitään seuraavista merkeistä [!@#$%^&*(),.?\":{}|<>]"
+}

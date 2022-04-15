@@ -1,0 +1,17 @@
+{
+    "register-w-bfs": "Registreer by Blessed for Service",
+    "confirm-password": "Bevestig wagwoord",
+    "register": "Registreer",
+    "registered": "Aangemeld!",
+    "your-region": "Jou streek",
+    "by-agree": "Deur aan te teken met ons stem u in tot hierdie privaatheidsvoorwaardes.",
+    "username-url-safe": "Die gebruikersnaam mag nie enige van hierdie karakters te bevat nie [!@#$%^&*(),.?\":{}| ]",
+    "user-taken": "Die gebruikersnaam is reeds geneem.",
+    "user-free": "Die gebruikersnaam nog nie geneem nie.",
+    "email-taken": "Die e-posadres is reeds geneem.",
+    "email-free": "Die e-posadres nog nie geneem nie.",
+    "password-mismatch": "Die wagwoorde stem nie ooreen nie.",
+    "user-length": "Die gebruikersnaam is te lank dit oorskry 17 karakters.",
+    "regions-warn": "Kies asseblief jou Kontinent, Land en Staat (tensy jou Staat nie gelys is nie).",
+    "thank-you": "Dankie dat jy aangeteken het om deel te wees van die Groot Ontwaking met die Blessed for Service span."
+}

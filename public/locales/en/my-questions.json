@@ -1,0 +1,15 @@
+{
+    "all": "My Questions",
+    "answers": "My Answers",
+    "no-questions": "No Questions",
+    "total-questions": "Total Questions",
+    "continent": "Continent",
+    "country": "Country",
+    "state": "State",
+    "date": "Asked On",
+    "asked-on": "Asked On",
+    "answered-on": "Answered On",
+    "reply": "Reply",
+    "send-reply": "Send Reply",
+    "reply-sent": "Reply Sent"
+}

@@ -1,0 +1,16 @@
+{
+    "register": "Registrer deg",
+    "register-w-bfs": "Meld deg på Blessed for Service",
+    "regions-warn": "Vennligst velg kontinent, land eller stat (med mindre din stat ikke står oppført i listen).",
+    "confirm-password": "Bekreft passord",
+    "registered": "Alle har meldt seg på!",
+    "your-region": "Din region",
+    "by-agree": "Ved å registrere deg hos oss så godtar du disse personvernvilkårene.",
+    "username-url-safe": "Brukernavnet må ikke inneholde følgende karakterer [!@#$%^&*(),.?\":{}|<>]",
+    "user-taken": "Brukernavnet er opptatt.",
+    "user-free": "Brukernavnet er ledig.",
+    "email-taken": "Denne e-post adressen er opptatt.",
+    "email-free": "Denne e-post adressen er ledig.",
+    "password-mismatch": "Passordet stemmer ikke.",
+    "user-length": "Brukernavn er lenger enn 17 karakterer, velg et kortere."
+}

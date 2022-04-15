@@ -1,0 +1,9 @@
+{
+    "user-pass-not-found": "Benutzername oder Passwort war nicht korrekt",
+    "password-incorrect": "Passwort war nicht korrekt",
+    "email-in-use": "Diese E-mailadresse ist bereits vergeben.",
+    "reset-expire": "Diese Reset Code wurde nicht gefunden oder ist bereits ausgelaufen.",
+    "username-taken": "Der Benutzernamen ist bereits vergeben.",
+    "email-not-found": "Die Emailadresse konnte nicht gefunden werden",
+    "username-url-safe": "Der Username darf keine dieser Zeichen enthalten [!@#$%^&*(),.?\":{}|<>]"
+}

@@ -1,0 +1,29 @@
+{
+    "username": "Brukernavn",
+    "links": {
+        "donate": "Donere",
+        "signup": "Registrere deg",
+        "login": "Logg inn",
+        "health-protocols": "Helseprotokoll",
+        "logout": "Logg ut",
+        "more": "Mer",
+        "translations": "Oversette",
+        "home": "Hjem",
+        "gene-schedule": "Genes skjema",
+        "about": "Om Gene Decode",
+        "documents": "Viktige dokument",
+        "past-interviews": "Genes tidigere intervjuer",
+        "ask": "Still et spørsmål",
+        "user-panel": "Brukerpanel",
+        "options": "Mine instillinger"
+    },
+    "next": "Neste",
+    "back": "Tilbake",
+    "submit": "Send inn",
+    "continent": "Kontinent",
+    "password": "Passord",
+    "email": "E-post",
+    "country": "Land",
+    "state": "Stat",
+    "send": "Send"
+}

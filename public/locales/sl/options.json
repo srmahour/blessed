@@ -1,0 +1,9 @@
+{
+    "confirm-pass": "Potrditev novega gesla",
+    "region-notice": "Za spremembo regije boste potrebovali odobritev koordinatorja.",
+    "change-pass": "Sprememba gesla",
+    "change-regions": "Regije sprememb",
+    "old-pass": "Staro geslo",
+    "new-pass": "Novo geslo",
+    "region-warning": "Izmenjali ste več regij, kot je dovoljeno. Zamenjava ni več dovoljena."
+}

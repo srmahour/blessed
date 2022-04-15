@@ -1,0 +1,9 @@
+{
+    "username-taken": "Brukernavnet er allerede tatt.",
+    "user-pass-not-found": "Bukernavn eller passord er feil",
+    "password-incorrect": "Passordet er feil",
+    "email-in-use": "E-post adressen er opptatt.",
+    "email-not-found": "Denne e-posten adressen ble ikke funnet",
+    "reset-expire": "Reset koden ble ikke funnet eller har utløpt.",
+    "username-url-safe": "Brukernavnet må ikke inneholde følgende karakterer [!@#$%^&*(),.?\":{}|<>]"
+}

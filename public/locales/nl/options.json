@@ -1,0 +1,9 @@
+{
+    "change-pass": "Wachtwoord veranderen",
+    "change-regions": "Regio veranderen",
+    "old-pass": "Oude wachtwoord",
+    "new-pass": "Nieuw wachtwoord",
+    "confirm-pass": "Bevestig nieuw wachtwoord",
+    "region-notice": "U heeft toestemming nodig van de coördinator om van regio te veranderen.",
+    "region-warning": "U heeft meer regio's verwisseld dan is toegestaan. U mag niet langer wisselen."
+}

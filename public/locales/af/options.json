@@ -1,0 +1,9 @@
+{
+    "change-pass": "Verander Wagwoord",
+    "change-regions": "Verander Streek",
+    "old-pass": "Ou Wagwoord",
+    "new-pass": "Nuwe Wagwoord",
+    "confirm-pass": "Bevestig Nuwe Wagwoord",
+    "region-notice": "Jy benodig die goedkeuring van die koördineerder om streke te verander.",
+    "region-warning": "Jy het jou toegelate aantal streeksveranderings bereik. Jy word nie meer toegelaat om streke te ruil nie."
+}

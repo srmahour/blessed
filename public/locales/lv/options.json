@@ -1,0 +1,9 @@
+{
+    "confirm-pass": "Jaunās paroles apstiprināšana",
+    "region-warning": "Jūs esat apmainījis reģionus, pārsniedzot atļauto daudzumu. Jums vairs nav atļauts apmainīt reģionus.",
+    "change-pass": "Mainīt paroli",
+    "change-regions": "Mainīt reģionus",
+    "old-pass": "Vecā parole",
+    "new-pass": "Jauna parole",
+    "region-notice": "Lai mainītu reģionus, ir nepieciešams koordinatora apstiprinājums."
+}

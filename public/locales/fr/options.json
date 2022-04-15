@@ -1,0 +1,9 @@
+{
+    "change-pass": "Changer le Mot de Passe",
+    "change-regions": "Changer de Région",
+    "old-pass": "Ancien Mot de Passe",
+    "new-pass": "Nouveau Mot de Passe",
+    "confirm-pass": "Confirmer le Nouveau Mot de Passe",
+    "region-notice": "Vous aurez besoin de l’approbation du coordinateur pour changer de région.",
+    "region-warning": "Vous avez échangé des régions sur le montant autorisé. Vous n’êtes plus autorisé à échanger."
+}

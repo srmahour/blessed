@@ -1,0 +1,8 @@
+{
+    "username-taken": "A felhasználónév már foglalt.",
+    "user-pass-not-found": "A felhasználónév vagy a jelszó helytelen volt",
+    "password-incorrect": "A jelszó helytelen volt",
+    "email-in-use": "Az e-mail már használatban van.",
+    "email-not-found": "Az e-mail nem található",
+    "reset-expire": "Az alaphelyzetbe állítási kódot nem találták vagy lejárt."
+}

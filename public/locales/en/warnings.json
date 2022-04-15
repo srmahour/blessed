@@ -1,0 +1,10 @@
+{
+    "username-taken": "Username is already taken.",
+    "user-pass-not-found": "Username or password was incorrect",
+    "password-incorrect": "Password was incorrect",
+    "email-in-use": "E-mail is already in use.",
+    "email-not-found": "The e-mail was not found",
+    "reset-expire": "The reset code was not found or expired.",
+    "username-url-safe": "The Username needs to not contain any of these characters [!@#$%^&*(),.?\":{}|<>]",
+    "auth-redirect": "Authorization Failure Redirecting to Log In"
+}

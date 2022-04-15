@@ -1,0 +1,15 @@
+{
+    "register-w-bfs": "Registriere Dich bei Blessed for Service",
+    "confirm-password": "Bestätige Password",
+    "register": "Registriere",
+    "registered": "Vollständig angemeldet!",
+    "your-region": "Deine Region",
+    "by-agree": "Mit erfolgter Registrierung stimmst Du den Datenschutzrichtlinien zu.",
+    "user-length": "Der Username ist zu lang und überschreitet die maximale Zeichenzahl (17 Zeichen).",
+    "username-url-safe": "Der Username darf keine dieser Zeichen enthalten [!@#$%^&*(),.?\":{}|<>]",
+    "user-taken": "Dieser Username ist leider schon belegt.",
+    "user-free": "Dieser Username ist noch frei.",
+    "email-taken": "Diese Emailadresse ist bereits registriert.",
+    "email-free": "Diese Emailadresse kann verwendet werden.",
+    "password-mismatch": "Das Passwort ist leider nicht korrekt."
+}

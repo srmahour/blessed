@@ -1,0 +1,9 @@
+{
+    "username-taken": "Vartotojo vardas jau užimtas.",
+    "user-pass-not-found": "Neteisingas vartotojo vardas arba slaptažodis",
+    "password-incorrect": "Slaptažodis buvo neteisingas",
+    "email-in-use": "Elektroninis paštas jau naudojamas.",
+    "email-not-found": "El. paštas nerastas",
+    "reset-expire": "Atstatymo kodas nerastas arba jo galiojimo laikas baigėsi.",
+    "username-url-safe": "Vartotojo varde neturi būti nė vieno iš šių simbolių: [!@#$%^^&*(),.?\":{}|<>]"
+}

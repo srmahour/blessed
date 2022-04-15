@@ -1,0 +1,9 @@
+{
+    "username-url-safe": "Användarnamnet kan inte innehålla följande tecken [!@#$%^&*(),.?\":{}|<>]",
+    "username-taken": "Användarnamnet är redan upptaget.",
+    "user-pass-not-found": "Användarnamnet eller lösenordet var felaktigt",
+    "password-incorrect": "Lösenordet var felaktigt",
+    "email-in-use": "E-post adressen används redan.",
+    "email-not-found": "Denna e-post adressen hittades inte",
+    "reset-expire": "Återställningskoden hittades inte eller har löpt ut."
+}

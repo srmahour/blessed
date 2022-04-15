@@ -1,0 +1,9 @@
+{
+    "username-taken": "Používateľské meno je už obsadené.",
+    "user-pass-not-found": "Používateľské meno alebo heslo bolo nesprávne",
+    "password-incorrect": "Heslo bolo nesprávne",
+    "email-in-use": "E-mail sa už používa.",
+    "email-not-found": "E-mail nebol nájdený",
+    "reset-expire": "Resetovací kód nebol nájdený alebo jeho platnosť vypršala.",
+    "username-url-safe": "Používateľské meno nesmie obsahovať žiadny z týchto znakov [!@#$%^&*(),.?\":{}|<>]"
+}

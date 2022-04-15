@@ -1,0 +1,9 @@
+{
+    "email-in-use": "E-pasts jau tiek izmantots.",
+    "email-not-found": "E-pasts netika atrasts",
+    "reset-expire": "Atiestatīšanas kods nav atrasts vai tā derīguma termiņš ir beidzies.",
+    "username-url-safe": "Lietotājvārdā nedrīkst būt neviena no šīm rakstzīmēm [!@##$%^^&*(),.?\":{}|<>]",
+    "username-taken": "Lietotājvārds jau ir aizņemts.",
+    "user-pass-not-found": "Lietotājvārds vai parole bija nepareiza",
+    "password-incorrect": "Parole bija nepareiza"
+}

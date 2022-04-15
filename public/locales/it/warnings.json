@@ -1,0 +1,8 @@
+{
+    "reset-expire": "Il codice di reset non è stato trovato o è scaduto.",
+    "email-not-found": "L'e-mail non è stata trovata",
+    "email-in-use": "La posta elettronica è già in uso.",
+    "password-incorrect": "La password non era corretta",
+    "user-pass-not-found": "Il nome utente o la password non erano corretti",
+    "username-taken": "Il nome utente è già preso."
+}

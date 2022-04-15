@@ -1,0 +1,9 @@
+{
+    "region-notice": "Do zmiany regionu potrzebna będzie zgoda koordynatora.",
+    "region-warning": "Zamieniłeś regiony ponad dozwoloną ilość. Nie możesz już zamieniać regionów.",
+    "change-pass": "Zmiana hasła",
+    "change-regions": "Zmiana Regiony",
+    "old-pass": "Stare hasło",
+    "new-pass": "Nowe hasło",
+    "confirm-pass": "Potwierdź nowe hasło"
+}

@@ -1,0 +1,9 @@
+{
+    "username-taken": "O nome de usuário já está ocupado.",
+    "user-pass-not-found": "O nome de usuário ou senha estava incorreto",
+    "password-incorrect": "A senha estava incorreta",
+    "email-in-use": "O e-mail já está em uso.",
+    "email-not-found": "O e-mail não foi encontrado.",
+    "reset-expire": "O código de reset não foi encontrado ou expirou.",
+    "username-url-safe": "O nome de usuário não precisa conter nenhum destes caracteres [!@##$%^&*(),.?\":{}|<>]"
+}

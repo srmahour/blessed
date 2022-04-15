@@ -1,0 +1,12 @@
+{
+    "all": "お問い合わせ履歴",
+    "answers": "ご回答",
+    "continent": "大陸",
+    "country": "国",
+    "state": "州（都道府県）",
+    "date": "お問い合わせ日",
+    "answered-on": "回答日",
+    "asked-on": "お問い合わせ日",
+    "no-questions": "現在お問い合わせ無し",
+    "total-questions": "お問い合わせ件数"
+}

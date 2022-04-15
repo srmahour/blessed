@@ -1,0 +1,9 @@
+{
+    "username-taken": "Gebruikersnaam is reeds bezet.",
+    "user-pass-not-found": "Gebruikersnaam of wachtwoord was onjuist",
+    "password-incorrect": "Wachtwoord was onjuist",
+    "email-in-use": "E-mail is al in gebruik.",
+    "email-not-found": "De e-mail werd niet gevonden",
+    "reset-expire": "De resetcode is niet gevonden of verlopen.",
+    "username-url-safe": "De gebruikersnaam mag geen van deze tekens bevatten [!@#$%^&*(),.?\":{}|<>]"
+}

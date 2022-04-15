@@ -1,0 +1,9 @@
+{
+    "change-pass": "パスワードの変更",
+    "change-regions": "地域の変更",
+    "old-pass": "旧パスワード",
+    "new-pass": "新しいパスワード",
+    "confirm-pass": "新パスワードの確認",
+    "region-notice": "地域を変更するには、コーディネーターの承認が必要です。",
+    "region-warning": "リージョン変更が許容回数を超えた為、変更できません。"
+}

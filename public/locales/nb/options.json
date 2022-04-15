@@ -1,0 +1,9 @@
+{
+    "change-pass": "Endre passord",
+    "new-pass": "Nytt passord",
+    "change-regions": "Endre regioner",
+    "old-pass": "Gammelt passord",
+    "region-warning": "Du har byttet region flere ganger en den tillatte grensen. Du får ikke lenger bytte region.",
+    "confirm-pass": "Bekreft nytt passord",
+    "region-notice": "Du vil trenge tillatelse fra en koordinator for å endre region."
+}

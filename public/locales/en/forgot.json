@@ -1,0 +1,9 @@
+{
+    "check-email": "Please check your email for the code to reset your password.",
+    "check-email-user": "Please check your email for your username.",
+    "reset-pass": "Reset Password",
+    "reset-code": "Reset Code",
+    "forgot" : "Forgot Username or Password ",
+    "forgot-password": "Forgot Password",
+    "forgot-username": "Forgot Username"
+}

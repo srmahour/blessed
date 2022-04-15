@@ -1,0 +1,36 @@
+{
+  "name": "../resource-timeline",
+  "version": "5.9.0",
+  "title": "FullCalendar Resource Timeline Plugin",
+  "description": "Display events and resources on a horizontal time axis",
+  "docs": "https://fullcalendar.io/docs/timeline-view",
+  "dependencies": {
+    "../common": "~5.9.0",
+    "../premium-common": "~5.9.0",
+    "../resource-common": "~5.9.0",
+    "../scrollgrid": "~5.9.0",
+    "../timeline": "~5.9.0",
+    "tslib": "^2.1.0"
+  },
+  "main": "main.cjs.js",
+  "module": "main.js",
+  "types": "main.d.ts",
+  "jsdelivr": "main.global.min.js",
+  "browserGlobal": "FullCalendarResourceTimeline",
+  "homepage": "https://fullcalendar.io/scheduler",
+  "bugs": "https://fullcalendar.io/reporting-bugs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fullcalendar/fullcalendar-scheduler.git",
+    "homepage": "https://github.com/fullcalendar/fullcalendar-scheduler"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "devDependencies": {
+    "../core-preact": "5.9.0"
+  }
+}
